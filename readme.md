@@ -1,6 +1,6 @@
 # Electron
 
-An Electron application with React
+An Electron application with React - Electron - Tailwind.css
 
 ## Recommended Ide Setup
 
