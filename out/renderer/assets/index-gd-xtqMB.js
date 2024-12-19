@@ -6983,7 +6983,7 @@ function Versions() {
     ] })
   ] });
 }
-const electronLogo = "" + new URL("electron-BZqvqt_i.svg", import.meta.url).href;
+const electronLogo = "" + new URL("electron-DtwWEc_u.svg", import.meta.url).href;
 function App() {
   const ipcHandle = () => window.electron.ipcRenderer.send("ping");
   return /* @__PURE__ */ jsxRuntimeExports.jsxs(jsxRuntimeExports.Fragment, { children: [
